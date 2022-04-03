@@ -1,0 +1,8 @@
+[Fly Decor Theme]
+
+ThemeDescription="Windows 10 White"
+ThemeAuthor="biomotor"
+
+; размер рамки окна
+BorderSizeX=2
+BorderSizeY=2
