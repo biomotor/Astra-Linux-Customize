@@ -1,0 +1,45 @@
+/* XPM */
+static char * frameITR_xpm[] = {
+
+/* Values */
+"8 32 3 1",
+
+/* Colors */
+"  c None",
+". c black",
+"X c #2B2B2B",
+
+/* Pixels */
+"XXXXXXXX",
+"XXXXXXXX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+"      XX",
+};
