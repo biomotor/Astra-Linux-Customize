@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="512" height="512" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+      <linearGradient id="Color" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%"   stop-color="#027AD4"/>
+        <stop offset="50%"  stop-color="#49CDFC"/>
+        <stop offset="100%" stop-color="#027AD4"/>
+      </linearGradient>
+      <filter id="f1" x="0" y="0" width="200%" height="200%">
+        <feOffset result="offOut" in="SourceGraphic" dx="25" dy="25" />
+        <feGaussianBlur result="blurOut" in="offOut" stdDeviation="25" />
+        <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      </filter>
+  </defs>
+  <path fill="url(#Color)" filter="url(#f1)" d="
+    M 246.5, 0
+    L 319.5, 153
+    L 473, 180
+    L 363, 298
+    L 387, 465
+    L 246.5, 388
+    L 106, 465
+    L 130, 298
+    L 20.5, 180
+    L 174,153
+    L 246.49, 0
+    L 246.49, 74.5
+    L 196, 182
+    L 86, 200.5
+    L 164.3, 286
+    L 147.8, 404.5
+    L 246.5, 349.3
+    L 346.2, 404.5
+    L 328.6, 286
+    L 406.2, 200.5
+    L 297.7, 182
+    L 246.5, 74.5
+    L 246.5, 0 Z
+    " />
+</svg>
