@@ -10,9 +10,8 @@ sudo fly-fm
 /usr/share/fly-wm/decorations/
 
 ![Black](https://user-images.githubusercontent.com/28458952/161424183-b4f22b02-cc72-4968-9f1c-323a2b9ed596.jpg)
-
 ![White](https://user-images.githubusercontent.com/28458952/161424158-aaf1e822-6954-4bef-91c8-9051d21d8f35.jpg)
-
+![Screenshot_4](https://user-images.githubusercontent.com/28458952/161689748-c5d1a7a8-852e-4ec5-947a-f4e374bd7177.jpg)
 
 Логотип по пути:
 /usr/share/icons/fly-astra-flat/32x32/emblems/
