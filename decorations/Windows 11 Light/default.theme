@@ -1,0 +1,8 @@
+[Fly Decor Theme]
+
+ThemeDescription="Windows 11 Light"
+ThemeAuthor="biomotor"
+
+; размер рамки окна
+BorderSizeX=2
+BorderSizeY=2
