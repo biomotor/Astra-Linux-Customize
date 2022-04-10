@@ -1,0 +1,44 @@
+/* XPM */
+static char * frameATR_xpm[] = {
+
+/* Values */
+"8 31 3 1",
+
+/* Colors */
+"  c None",
+". c #191919",
+"B c #0078D4",
+
+/* Pixels */
+"BBBB    ",
+"BBBBBB  ",
+"      B ",
+"      B ",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+"      BB",
+};

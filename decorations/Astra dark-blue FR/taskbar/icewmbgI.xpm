@@ -1,0 +1,13 @@
+/* XPM */
+static char * icewmbgI_xpm[] = {
+
+/* Values */
+"1 1 2 1",
+
+/* Colors */
+"  c None",
+". c #202020",
+
+/* Pixels */
+".",
+};
