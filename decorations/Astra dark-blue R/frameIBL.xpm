@@ -1,0 +1,22 @@
+/* XPM */
+static char * frameIBL_xpm[] = {
+
+/* Values */
+"8 8 3 1",
+
+/* Colors */
+"  c None",
+". c #191919",
+"B c #3B3B3B",
+
+/* Pixels */
+"B.      ",
+"B.      ",
+"B.      ",
+"B.      ",
+" B      ",
+" B      ",
+"  BB....",
+"    BBBB",
+};
+

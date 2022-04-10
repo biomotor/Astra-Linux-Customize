@@ -1,0 +1,26 @@
+[Fly Decor Theme]
+
+ThemeDescription="Astra dark-blue R"
+ThemeAuthor="biomotor"
+
+; размер рамки окна
+BorderSizeX=2
+BorderSizeY=2
+
+ColorNormalTitleBarText="rgb:99/99/99"
+ColorActiveTitleBarText="rgb:FF/FF/FF"
+
+ColorNormalTaskBarAppText="rgb:99/99/99"
+ColorActiveTaskBarAppText="rgb:FF/FF/FF"
+
+ColorClock="rgb:FF/FF/FF"
+ColorClockText="rgb:FF/FF/FF"
+
+
+
+
+
+
+
+
+
