@@ -6,10 +6,9 @@
 Все изменения вносятся под правами root (ввести в терминале):
 sudo fly-fm
 
-Декорации по пути:
-/usr/share/fly-wm/decorations/
+Декорации по пути: /usr/share/fly-wm/decorations/
 
-<details><summary>Декорации:</summary>
+<details><summary>Скриншоты декораций:</summary>
 
 ![Black](https://user-images.githubusercontent.com/28458952/161424183-b4f22b02-cc72-4968-9f1c-323a2b9ed596.jpg)
 ![White](https://user-images.githubusercontent.com/28458952/161424158-aaf1e822-6954-4bef-91c8-9051d21d8f35.jpg)
