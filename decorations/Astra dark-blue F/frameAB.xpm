@@ -1,0 +1,15 @@
+/* XPM */
+static char * frameAB_xpm[] = {
+
+/* Values */
+"1 2 3 1",
+
+/* Colors */
+"  c None",
+". c #191919",
+"B c #0078D4",
+
+/* Pixels */
+".",
+"B",
+};
