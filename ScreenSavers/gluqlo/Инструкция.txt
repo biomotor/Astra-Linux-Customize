@@ -1,0 +1,36 @@
+https://www.omgubuntu.co.uk/2016/11/gluqlo-flipqlo-screensaver-ubuntu
+
+Устанавливаем deb пакет, разрешаем поиск пакета из сторонних источников при установке.
+
+Меню пуск - Панель управления - Рабочий стол - Настройка параметров окон:
+Добавить: gluqlo
+Без заголовка
+Без границы
+На всех рабочих столах
+Максимизировать при запуске
+
+/home/...USER.../.fly/theme/current.themerc
+ищем
+ScreenSaver=internal
+заменяем на
+ScreenSaver="/usr/lib/xscreensaver/gluqlo -root"
+
+/home/...USER.../.fly/startmenu/graphics/gluqlo.desktop
+Name[ru]=Заставка Gluqlo
+Categories=Graphics;Scanning
+
+Команда в терминале или перезапуск ПК:
+fly-wmfunc FLYWM_RESTART
+
+
+
+
+
+
+
+
+
+
+
+
+
