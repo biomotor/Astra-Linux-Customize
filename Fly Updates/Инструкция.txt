@@ -1,0 +1,32 @@
+Пакет sox, ставить всем:
+https://disk.yandex.ru/d/VCwqAMkcFRZdJg
+
+Пакет fly для SE v1.7.x:
+https://disk.yandex.ru/d/WRptI_Nnz7auyw
+
+Пакет fly для CE v2.12.x:
+https://disk.yandex.ru/d/snYm43CtzuRS7w
+
+распаковать каждый архив
+Новые параметры появятся в /usr/share/fly-wm/theme,
+а уже существующим пользователям их надо вносить руками
+Можно удалить /home/...USER.../.fly/theme/current.themerc, пересоздастся автоматически
+(сохраните на всякий случай копию)
+
+sudo -s
+cd ...sox
+sudo dpkg -i *.deb
+
+Для SE 1.7.x:
+  cd ...v1.7
+  sudo dpkg -i *.deb
+
+Для CE 2.12.x:
+  cd ...v2.12
+  sudo dpkg -i *.deb
+
+* apt-get install libopencore-amrwb0
+
+Доустановить пакеты со сломанными зависимостями
+apt-get -f install
+
