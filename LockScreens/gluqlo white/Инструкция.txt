@@ -1,0 +1,116 @@
+
+Устанавливаем обновления sox и fly
+/Fly Updates/
+
+
+Копируем шрифт по пути:
+/usr/share/fonts/HelveticaLTStd-BoldCond.ttf
+
+
+
+/home/...USER.../.fly/theme/current.themerc
+Изображение и локпанель:
+LockerBackgroundImage=/usr/share/wallpapers/wp_gluqlo_white2.png
+LockerPanelImage=/usr/share/fly-wm/images/lp_gluqlo_white.png
+LockerInputPanelX=50%
+LockerInputPanelY=56%
+
+Аутентификация не пройдена:
+LockerWrongPasswdTimeout=0
+
+Время:
+LockerTimeFont="Helvetica LT Std-410"
+LockerTimeHrsGeom=570x570+0+0
+LockerTimeMinsGeom=570x570+632+0
+
+Пользователь:
+LockerShowWelcome=%user
+LockerWelcomeFont="PT Astra Fact-13"
+LockerWelcomeColor=#484848
+LockerWelcomeShadowOffsetX=0
+LockerWelcomeShadowOffsetY=0
+LockerWelcomeX=50%
+LockerWelcomeY=650
+
+Клавиатура:
+LockerVkbdGeom=48x36+406-0
+
+Ввод пароля:
+LockerInputPassX=460
+LockerInputPassY=694
+LockerInputColor=#484848
+LockerInputFont="PT Astra Fact-13"
+LockerInputShadowColor=white
+LockerInputShadowOffsetX=0
+LockerInputShadowOffsetY=0
+
+Кнопка войти:
+LockerGoGeom=36x36-406-0
+
+Caps lock:
+LockerCapsX=90%
+LockerCapsY=95%
+
+Язык:
+LockerLangX=90%
+LockerLangY=92%
+
+
+
+Чистка хвостов:
+
+День месяц, неделя:
+LockerWeekDayGeom=0x0+0-10000
+
+Режим защищенности:
+LockerUsernameX=50%
+LockerUsernameY=-10000
+
+Сессия:
+LockerSessX=0
+LockerSessY=-10000
+
+Введите пароль:
+LockerPasswordX=50%
+LockerPasswordY=-10000
+
+День месяца:
+LockerMonthDayGeom=83x10+362-10000
+
+Имя пользователя:
+LockerInputNameX=80
+LockerInputNameY=-10000
+
+
+
+/usr/share/fly-wm/ru_RU.UTF-8.msg
+стр 143 "Добро пожаловать в " заменить на "Пользователь: "
+
+
+
+Команда в терминале или перезапуск ПК:
+fly-wmfunc FLYWM_RESTART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
