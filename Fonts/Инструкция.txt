@@ -1,0 +1,11 @@
+
+Копируем шрифты по пути:
+/usr/share/fonts/
+
+Например
+/usr/share/fonts/HelveticaLTStd-BoldCond.ttf
+
+
+
+
+
